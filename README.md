@@ -1,3 +1,3 @@
 # time-list
 time list for train
-[demo](http://www.baidu.com)
+[demo](https://taylorwizard.github.io/time-list/)
